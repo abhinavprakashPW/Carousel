@@ -94,7 +94,7 @@ body {
 /* Image Wrapper */
 .images {
     display: flex;
-    width: 100%;
+    width: 400%;
 }
 
 .images img {
@@ -159,7 +159,7 @@ Slider Container (.slider {}):
 Sets the width of the slider to 60% of the screen and hides any extra images using overflow: hidden;.
 
 Images (.images img {}):
-Makes images fill the width of the container (width: 100%) and sets their height to 400px.
+Makes images fill the width of the container (width: 400%) and sets their height to 400px.
 Applies a smooth transition effect for sliding.
 
 Radio Buttons (.images input {}):
